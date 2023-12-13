@@ -1,13 +1,8 @@
 ﻿using Azure.Messaging.WebPubSub.Client.Protobuf;
 using Azure.Messaging.WebPubSub.Clients;
 using Google.Protobuf;
-using System;
+using Google.Protobuf.WellKnownTypes;
 using System.Buffers;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace WebPubSubSample
 {
